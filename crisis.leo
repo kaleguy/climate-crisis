@@ -24,11 +24,14 @@
 <tnodes>
 <t tx="josephorr.20170624183249.2">@language html
 
-&lt;div style="text-align:center; font-size: 200px; font-weight:bold; line-height:1"&gt;
+&lt;div style="text-align:center; font-size: 160px; font-weight:bold; line-height:1"&gt;
 Climate&lt;br&gt;Crisis
+&lt;div style="font-size:60px;line-height:1.3"&gt;
+&lt;div&gt;Global Heating&lt;/div&gt;
+&lt;div&gt;Climate Science Denial&lt;/div&gt;
 &lt;/div&gt;
-&lt;h1&gt;Global Heating&lt;/h1&gt;
-&lt;h1&gt;Climate Science Denial&lt;/h1&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="josephorr.20190518140448.1">@language html
 
 &lt;div style="background-repeat:no-repeat;background-size:cover;height:100%;width:100%;background-image:url('https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg')"&gt;
