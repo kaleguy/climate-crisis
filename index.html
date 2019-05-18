@@ -1,39 +1,57 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <script>
-      window.lconfig = {
-        showAppTitle: false,
-        showHeader: true,
-        docTitle: 'Climate Crisis',
-        filename: 'crisis',
-        firstNodeAsTitle: true,
-        baseMode: 't',
-        "activeBackgroundColor": "#01FF70",
-        "itemArrow": "\uf105", // ▹▷▶›>►
-        "leftPaneWidth": 'calc(50vw - 350px)',
-        "rightPaneWidth": 'calc(50vw + 350px)',
-        "leftPanePadding": 'calc(50vw - 600px)',
-        "contentPaneWidth": '700px',
-        viewTypes: [
-          {name: 'Outline', type: 't'},
-          {name: 'Inline', type: 'a'},
-          {name: 'Graphic Tree', type: 'd'},
-          {name: 'Dendrogram', type: 'z'},
-          {name: 'Nested Menu', type: 'n'}
-        ]
-      }
-    </script>
-    <meta charset=utf-8>
-    <title>Gaia's Web Library</title>
-    <link href="https://cdn.jsdelivr.net/npm/leo-vue/dist/static/css/app.css" rel=stylesheet>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-  </head>
-    <body>
-      <div id=app></div>
-      <script type=text/javascript src=https://cdn.jsdelivr.net/npm/leo-vue/dist/static/js/manifest.js></script>
-      <script type=text/javascript src=https://cdn.jsdelivr.net/npm/leo-vue/dist/static/js/vendor.js></script>
-      <script type=text/javascript src=https://cdn.jsdelivr.net/npm/leo-vue/dist/static/js/app.js></script>
-    </body>
+<head>
+  <script>
+    window.lconfig = {
+      "showAppTitle": false,
+      "showHeader": true,
+      "docTitle": "LeoVue Documentation and Example Content",
+      "filename": "crisis",
+      "firstNodeAsTitle": true,
+      "baseMode": "t", // t = outline, for other types, see below
+      "activeBackgroundColor": "#01FF70", //
+      "itemArrow": "\uf105", // ▹▷▶›>►
+      "leftPaneWidth": '300px',
+      "leftPaneBackground": '#fafafa',
+      "leftPanePadding": '10px',
+      "contentPaneWidth": '780px',
+      "coverPage": true,
+      "viewTypes": [
+        {"name": "Outline", "type": "t"},
+        {"name": "Inline", "type": "a"},
+        {"name": "Graphic Tree", "type": "d"},
+        // {"name": "Dendrogram", "type": "z"},
+        {"name": "Nested Menu", "type": "n"}
+      ],
+    }
+  </script>
+  <meta charset=utf-8>
+  <title>Climate Crisis</title>
+  <link href="https://cdn.jsdelivr.net/npm/leo-vue/dist/static/css/app.css" rel=stylesheet>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+</head>
+<body>
+<div id=app></div>
+<script type=text/javascript src=https://cdn.jsdelivr.net/npm/leo-vue/dist/static/js/manifest.js></script>
+<script type=text/javascript src=https://cdn.jsdelivr.net/npm/leo-vue/dist/static/js/vendor.js></script>
+<script type=text/javascript src=https://cdn.jsdelivr.net/npm/leo-vue/dist/static/js/app.js></script>
+<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+<script>
+  var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+<style type="text/css">
+  #app {
+    font-family: Avenir, Nunito, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+  }
+  H1, H2 {
+    margin-bottom: 1.5rem;
+  }
+  .lv-rowset DIV {
+    flex: 50%
+  }
+</style>
+</body>
 </html>

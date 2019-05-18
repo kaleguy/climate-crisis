@@ -9,8 +9,16 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="josephorr.20170624183249.2" a="E"><vh>Climate Crisis</vh>
-<v t="josephorr.20190518140448.1"><vh>[Carbon](https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg)</vh></v>
+<v t="josephorr.20190518142946.1"><vh>@cover</vh></v>
+<v t="josephorr.20170624183249.2"><vh>Climate Crisis</vh></v>
+<v t="josephorr.20190518140448.1"><vh>@board Carbon</vh></v>
+<v t="josephorr.20190518150839.1"><vh>[Speed](speed.html)</vh></v>
+<v t="josephorr.20190518151721.1" a="E"><vh>MegaDeaths</vh>
+<v t="josephorr.20190518151726.1"><vh>Starfish</vh></v>
+<v t="josephorr.20190518151928.1"><vh>[Saiga](https://en.wikipedia.org/wiki/Saiga_antelope)</vh></v>
+</v>
+<v t="josephorr.20190518142439.1"><vh>Action</vh>
+<v t="josephorr.20190518145904.1"><vh>[Fridays For Future](https://www.fridaysforfuture.org/)</vh></v>
 </v>
 </vnodes>
 <tnodes>
@@ -18,7 +26,32 @@
 
 &lt;div style="text-align:center; font-size: 200px; font-weight:bold; line-height:1"&gt;
 Climate&lt;br&gt;Crisis
+&lt;/div&gt;
+&lt;h1&gt;Global Heating&lt;/h1&gt;
+&lt;h1&gt;Climate Science Denial&lt;/h1&gt;</t>
+<t tx="josephorr.20190518140448.1">@language html
+
+&lt;div style="background-repeat:no-repeat;background-size:cover;height:100%;width:100%;background-image:url('https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg')"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+</t>
+<t tx="josephorr.20190518142439.1"></t>
+<t tx="josephorr.20190518142946.1">@language html
+&lt;div class="cover-main" 
+     style="height:100%;width:100%;background-image:url('https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg')"&gt;
+
+   &lt;div style="height:80%"&gt;&lt;/div&gt;
+   &lt;p style="float:bottom;z-index:1"&gt;
+     &lt;a href="#dashboard"&gt;Climate Crisis&lt;/a&gt;
+   &lt;/p&gt;
+
 &lt;/div&gt;</t>
-<t tx="josephorr.20190518140448.1"></t>
+<t tx="josephorr.20190518145904.1"></t>
+<t tx="josephorr.20190518150839.1"></t>
+<t tx="josephorr.20190518151721.1"></t>
+<t tx="josephorr.20190518151726.1">@language md
+
+[Starfish Die Off](https://www.npr.org/2019/01/30/690003678/massive-starfish-die-off-is-tied-to-global-warming)</t>
+<t tx="josephorr.20190518151928.1"></t>
 </tnodes>
 </leo_file>
