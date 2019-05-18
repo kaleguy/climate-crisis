@@ -9,13 +9,16 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="josephorr.20170624183249.2"><vh>Climate Crisis</vh></v>
+<v t="josephorr.20170624183249.2" a="E"><vh>Climate Crisis</vh>
+<v t="josephorr.20190518140448.1"><vh>[Carbon](https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg)</vh></v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="josephorr.20170624183249.2">@language html
 
-&lt;div style="text-align:center; font-size: 200px"&gt;
+&lt;div style="text-align:center; font-size: 200px; font-weight:bold; line-height:1"&gt;
 Climate&lt;br&gt;Crisis
 &lt;/div&gt;</t>
+<t tx="josephorr.20190518140448.1"></t>
 </tnodes>
 </leo_file>
