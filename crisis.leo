@@ -16,6 +16,8 @@
 <v t="josephorr.20190518151721.1" a="E"><vh>MegaDeaths</vh>
 <v t="josephorr.20190518151726.1"><vh>[Starfish](https://en.wikipedia.org/wiki/Sea_star_wasting_disease)</vh></v>
 <v t="josephorr.20190518151928.1"><vh>[Saiga](https://en.wikipedia.org/wiki/Saiga_antelope)</vh></v>
+<v t="josephorr.20190518160155.1"><vh>[Biodiversity](https://en.wikipedia.org/wiki/Global_Assessment_Report_on_Biodiversity_and_Ecosystem_Services)</vh></v>
+<v t="josephorr.20190518160303.1"><vh>Insect Apocalypse</vh></v>
 </v>
 <v t="josephorr.20190518142439.1"><vh>Action</vh>
 <v t="josephorr.20190518145904.1"><vh>[Fridays For Future](https://www.fridaysforfuture.org/)</vh></v>
@@ -61,5 +63,16 @@ Climate&lt;br&gt;Crisis
 <t tx="josephorr.20190518151928.1"></t>
 <t tx="josephorr.20190518153529.1"></t>
 <t tx="josephorr.20190518153535.1"></t>
+<t tx="josephorr.20190518160155.1"></t>
+<t tx="josephorr.20190518160303.1">@language md
+
+# Insect Apocalypse
+
+
+[Insect Apocalypse on Wikipedia](https://en.wikipedia.org/wiki/Decline_in_insect_populations)
+
+[Insect Apocalypse on the Guardian](https://www.theguardian.com/environment/2017/oct/18/warning-of-ecological-armageddon-after-dramatic-plunge-in-insect-numbers)
+
+[Insect Apocalypse on New York Times](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html)</t>
 </tnodes>
 </leo_file>
