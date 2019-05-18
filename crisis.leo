@@ -43,14 +43,14 @@ Climate&lt;br&gt;Crisis
 </t>
 <t tx="josephorr.20190518142439.1"></t>
 <t tx="josephorr.20190518142946.1">@language html
-&lt;div class="cover-main" 
-     style="height:100%;width:100%;background-image:url('https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg')"&gt;
+&lt;div class="cover-main" style="width:100%;height:100%"&gt;
+   &lt;div  style="height:100%;width:100%;background-repeat:no-repeat;background-position:center;background-image:url('https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg')"&gt;
 
    &lt;div style="height:80%"&gt;&lt;/div&gt;
    &lt;p style="float:bottom;z-index:1"&gt;
      &lt;a href="#dashboard"&gt;Climate Crisis&lt;/a&gt;
    &lt;/p&gt;
-
+   &lt;/div&gt;
 &lt;/div&gt;</t>
 <t tx="josephorr.20190518145904.1"></t>
 <t tx="josephorr.20190518150839.1"></t>
