@@ -14,7 +14,7 @@
 <v t="josephorr.20190518140448.1"><vh>@board Carbon</vh></v>
 <v t="josephorr.20190518150839.1"><vh>[Speed](speed.html)</vh></v>
 <v t="josephorr.20190518151721.1" a="E"><vh>MegaDeaths</vh>
-<v t="josephorr.20190518151726.1"><vh>Starfish</vh></v>
+<v t="josephorr.20190518151726.1"><vh>[Starfish](https://en.wikipedia.org/wiki/Sea_star_wasting_disease)</vh></v>
 <v t="josephorr.20190518151928.1"><vh>[Saiga](https://en.wikipedia.org/wiki/Saiga_antelope)</vh></v>
 </v>
 <v t="josephorr.20190518142439.1"><vh>Action</vh>
