@@ -20,6 +20,9 @@
 <v t="josephorr.20190518142439.1"><vh>Action</vh>
 <v t="josephorr.20190518145904.1"><vh>[Fridays For Future](https://www.fridaysforfuture.org/)</vh></v>
 </v>
+<v t="josephorr.20190518153529.1" a="E"><vh>Climate Deniers</vh>
+<v t="josephorr.20190518153535.1"><vh>[Murdoch](https://www.thenation.com/article/donald-trump-and-rupert-murdoch-have-set-our-future-on-fire/)</vh></v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="josephorr.20170624183249.2">@language html
@@ -56,5 +59,7 @@ Climate&lt;br&gt;Crisis
 
 [Starfish Die Off](https://www.npr.org/2019/01/30/690003678/massive-starfish-die-off-is-tied-to-global-warming)</t>
 <t tx="josephorr.20190518151928.1"></t>
+<t tx="josephorr.20190518153529.1"></t>
+<t tx="josephorr.20190518153535.1"></t>
 </tnodes>
 </leo_file>
