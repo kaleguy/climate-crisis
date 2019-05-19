@@ -13,6 +13,10 @@
 <v t="josephorr.20170624183249.2"><vh>Climate Crisis</vh></v>
 <v t="josephorr.20190518140448.1"><vh>@board Carbon</vh></v>
 <v t="josephorr.20190518150839.1"><vh>[Speed](speed.html)</vh></v>
+<v t="josephorr.20190518172906.1" a="E"><vh>Impact</vh>
+<v t="josephorr.20190518174629.1"><vh>[BBC Summary Article](https://www.bbc.com/news/science-environment-46384067)</vh></v>
+<v t="josephorr.20190518174605.1"><vh>Chart from Wikipedia Article</vh></v>
+</v>
 <v t="josephorr.20190518151721.1" a="E"><vh>MegaDeaths</vh>
 <v t="josephorr.20190518151726.1"><vh>[Starfish](https://en.wikipedia.org/wiki/Sea_star_wasting_disease)</vh></v>
 <v t="josephorr.20190518151928.1"><vh>[Saiga](https://en.wikipedia.org/wiki/Saiga_antelope)</vh></v>
@@ -74,5 +78,17 @@ Climate&lt;br&gt;Crisis
 [Insect Apocalypse on the Guardian](https://www.theguardian.com/environment/2017/oct/18/warning-of-ecological-armageddon-after-dramatic-plunge-in-insect-numbers)
 
 [Insect Apocalypse on New York Times](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html)</t>
+<t tx="josephorr.20190518172906.1">@language html
+
+&lt;h1&gt;Impact&lt;/h1&gt;
+
+&lt;toc/&gt;
+
+</t>
+<t tx="josephorr.20190518174605.1">&lt;img
+style="width:100%"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Impacts_of_global_warming_2_svg.svg/1817px-Impacts_of_global_warming_2_svg.svg.png"&gt;
+</t>
+<t tx="josephorr.20190518174629.1"></t>
 </tnodes>
 </leo_file>
