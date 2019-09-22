@@ -14,7 +14,6 @@
 <v t="josephorr.20190518140448.1"><vh>@board Carbon</vh></v>
 <v t="josephorr.20190518150839.1"><vh>[Speed](speed.html)</vh></v>
 <v t="josephorr.20190519185344.1"><vh>Carbon and Temperature</vh></v>
-<v t="josephorr.20190922105603.1"><vh>[Temperatures](https://live.staticflickr.com/video/46198229225/6d0458719e/720p.mp4?s=eyJpIjo0NjE5ODIyOTIyNSwiZSI6MTU2OTE2NTgxNiwicyI6ImQxZjMxMjFiNDAxMWExYmE5OWVkYWVlZjkwNTUyYzlmY2ZhM2EwZjAiLCJ2IjoxfQ)</vh></v>
 <v t="josephorr.20190518172906.1"><vh>Impact</vh>
 <v t="josephorr.20190518174629.1"><vh>[BBC Summary Article](https://www.bbc.com/news/science-environment-46384067)</vh></v>
 <v t="josephorr.20190518174605.1"><vh>Chart from Wikipedia Article</vh></v>
@@ -52,7 +51,7 @@ Climate&lt;br&gt;Crisis
 <t tx="josephorr.20190518142439.1"></t>
 <t tx="josephorr.20190518142946.1">@language html
 &lt;div class="cover-main" style="width:100%;height:100%"&gt;
-   &lt;div  style="height:100%;width:100%;background-repeat:no-repeat;background-position:center;background-image:url('https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg')"&gt;
+   &lt;div  style="height:100%;width:100%;background-repeat:no-repeat;background-position:center;background-image:url('https://climate.nasa.gov/system/news_items/main_images/2535_203_co2-graph-021116-1280px.jpg')"&gt;
 
    &lt;div style="height:80%"&gt;&lt;/div&gt;
    &lt;p style="float:bottom;z-index:1"&gt;
@@ -98,6 +97,5 @@ src="https://assets.climatecentral.org/images/made/2018NCA_TempCO2_UPDATED2_900_
 
 
 </t>
-<t tx="josephorr.20190922105603.1"></t>
 </tnodes>
 </leo_file>
