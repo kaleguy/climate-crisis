@@ -44,7 +44,7 @@ Climate&lt;br&gt;Crisis
 </t>
 <t tx="josephorr.20190518140448.1">@language html
 
-&lt;div style="background-repeat:no-repeat;background-size:cover;height:100%;width:100%;background-image:url('https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-051619.jpg')"&gt;
+&lt;div style="background-repeat:no-repeat;background-size:cover;height:100%;width:100%;background-image:url('https://e360.yale.edu/assets/site/mlo_full_record-copy_trimmed1500.png')"&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 </t>
