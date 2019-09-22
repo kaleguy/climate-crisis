@@ -13,11 +13,13 @@
 <v t="josephorr.20170624183249.2"><vh>Climate Crisis</vh></v>
 <v t="josephorr.20190518140448.1"><vh>@board Carbon</vh></v>
 <v t="josephorr.20190518150839.1"><vh>[Speed](speed.html)</vh></v>
-<v t="josephorr.20190518172906.1" a="E"><vh>Impact</vh>
+<v t="josephorr.20190519185344.1"><vh>Carbon and Temperature</vh></v>
+<v t="josephorr.20190922105603.1"><vh>[Temperatures](https://live.staticflickr.com/video/46198229225/6d0458719e/720p.mp4?s=eyJpIjo0NjE5ODIyOTIyNSwiZSI6MTU2OTE2NTgxNiwicyI6ImQxZjMxMjFiNDAxMWExYmE5OWVkYWVlZjkwNTUyYzlmY2ZhM2EwZjAiLCJ2IjoxfQ)</vh></v>
+<v t="josephorr.20190518172906.1"><vh>Impact</vh>
 <v t="josephorr.20190518174629.1"><vh>[BBC Summary Article](https://www.bbc.com/news/science-environment-46384067)</vh></v>
 <v t="josephorr.20190518174605.1"><vh>Chart from Wikipedia Article</vh></v>
 </v>
-<v t="josephorr.20190518151721.1" a="E"><vh>MegaDeaths</vh>
+<v t="josephorr.20190518151721.1"><vh>MegaDeaths</vh>
 <v t="josephorr.20190518151726.1"><vh>[Starfish](https://en.wikipedia.org/wiki/Sea_star_wasting_disease)</vh></v>
 <v t="josephorr.20190518151928.1"><vh>[Saiga](https://en.wikipedia.org/wiki/Saiga_antelope)</vh></v>
 <v t="josephorr.20190518160155.1"><vh>[Biodiversity](https://en.wikipedia.org/wiki/Global_Assessment_Report_on_Biodiversity_and_Ecosystem_Services)</vh></v>
@@ -90,5 +92,12 @@ style="width:100%"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Impacts_of_global_warming_2_svg.svg/1817px-Impacts_of_global_warming_2_svg.svg.png"&gt;
 </t>
 <t tx="josephorr.20190518174629.1"></t>
+<t tx="josephorr.20190519185344.1">&lt;img
+style="width:100%"
+src="https://assets.climatecentral.org/images/made/2018NCA_TempCO2_UPDATED2_900_506_s_c1_c_c.jpg"&gt;
+
+
+</t>
+<t tx="josephorr.20190922105603.1"></t>
 </tnodes>
 </leo_file>
